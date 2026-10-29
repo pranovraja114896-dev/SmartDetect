@@ -32,6 +32,7 @@ venv/
 .freebuff/
 SmartDetect_IEEE_Paper.docx
 SmartDetect_IEEE_Paperr.pages
+*.pdf
 
 # Node / Dashboard
 node_modules/

@@ -36,7 +36,8 @@ Each person passing through camera zones is assigned a persistent, unique identi
 │   [ MJPEG Live Stream ] ◄────────────────────────────────── [ Detection + Tracking +   │
 │             │                                                 ArcFace + OSNet Re-ID]   │
 │             ▼                                                            │             │
-│   [ React 18 Dashboard ] ◄─────── [ FastAPI REST API + JWT ] ────────────┴─────────────►
+│   [ React 18 Dashboard ] ◄─────── [ FastAPI REST API + JWT ] 
+────────────┴─────────────►
 │                                             │                                          │
 │                                             ▼                                          │
 │                             [ SQLite / PostgreSQL pgvector ]                           │
